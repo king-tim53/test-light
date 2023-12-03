@@ -1,5 +1,5 @@
 function sum(a, b) {
-    console.log("hello", a + b)
+    console.log("Hello", a + b)
 }
 
 sum();
